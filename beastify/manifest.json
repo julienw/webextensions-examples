@@ -16,9 +16,9 @@
   "browser_action": {
     "default_icon": "icons/beasts-32.png",
     "theme_icons": [{
-        "light": "icons/beasts-32-light.png",
-        "dark": "icons/beasts-32.png",
-        "size": 32
+        "light": "icons/beasts-48-light.png",
+        "dark": "icons/beasts-48.png",
+        "size": 48
     }],
     "default_title": "Beastify",
     "default_popup": "popup/choose_beast.html"
